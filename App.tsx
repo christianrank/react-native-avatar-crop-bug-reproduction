@@ -1,3 +1,4 @@
+import React from 'react'
 import { useState } from 'react';
 import { Dimensions, SafeAreaView, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
@@ -51,6 +52,27 @@ export default function App() {
             onCrop={(cropCallback) => (crop = cropCallback)}
           />
         )}
+
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
+        <Text>Test</Text>
       </View>
     </SafeAreaView>
   );
