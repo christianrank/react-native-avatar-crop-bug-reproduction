@@ -1,0 +1,1 @@
+Reproduction repo for [this issue](https://github.com/vemarav/react-native-avatar-crop/issues/12).
